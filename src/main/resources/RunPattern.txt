@@ -1,0 +1,6 @@
+00:00;15:40;constant-simple-1-1-1
+15:40;18:30;increasing-simple-5-5-50
+18:30;19:30;increasing-exponential-50-0.3-200
+19:30;20:00;decreasing-exponential-200-0.3-50
+20:00;20:30;decreasing-simple-50-5-5
+20:30;21:00;constant-simple-5-5-5
